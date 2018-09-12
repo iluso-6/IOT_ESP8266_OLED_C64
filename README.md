@@ -1,5 +1,8 @@
 # IOT_ESP8266_OLED_C64
 
+<img src="https://github.com/iluso-6/IOT_ESP8266_OLED_C64/blob/master/screenshots/oled.jpg?raw=true" height="140px" align="right"/>
+
+
 ***Modified code from*** https://github.com/NardJ/esp8266-C64 ***to output on an SSD1306 OLED***
 
 Added Adafruit_GFX library and TomThumb font to accomodate screen size. Converted original Commodore 64 logo for bitmap logo splash.
