@@ -10,7 +10,7 @@ Added Adafruit_GFX library and TomThumb font to accomodate screen size. Converte
 Seperated mobile JavaScript, Html, CSS logic from main (ESP8266C64_Browser_Backup.ino) file.
 
 
-***Note: Wifi credentials required in ESP8266C64_Browser_Backup.ino***
+***Note: Wifi credentials required in ESP8266C64_Browser_Backup.ino*** (then open http://192.168.0.80/ in Microsoft Edge Browser)
 
 Further project developments will include C64 keyboard on mobile device instead of serial input and a 128x128 screen.
 
