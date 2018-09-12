@@ -33,11 +33,8 @@ Further project developments will include C64 keyboard on mobile device instead 
   </tr>
   
 </table>
-```javascript
-function _T(selector, container) {
-    return (container || document).querySelector(selector);
-}
-```
+
+
 <table>
 	<th colspan="3">for loop and some math</th>
   <tr>
