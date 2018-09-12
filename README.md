@@ -34,7 +34,9 @@ Further project developments will include C64 keyboard on mobile device instead 
   
 </table>
 ```javascript
-for loop and some math
+function _T(selector, container) {
+    return (container || document).querySelector(selector);
+}
 ```
 <table>
 	<th colspan="3">for loop and some math</th>
