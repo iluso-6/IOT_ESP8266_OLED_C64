@@ -12,6 +12,7 @@ Seperated mobile JavaScript, Html, CSS logic from main (ESP8266C64_Browser_Backu
 
 ***Note: Wifi credentials required in ESP8266C64_Browser_Backup.ino*** (then open http://192.168.0.80/ in Microsoft Edge Browser)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/C64_startup_animiert.gif?raw=true" height="140px" align="right"/>
 Further project developments will include C64 keyboard on mobile device instead of serial input and a 128x128 screen.
 
 <table>
