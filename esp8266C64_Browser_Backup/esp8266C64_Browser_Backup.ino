@@ -36,8 +36,8 @@
 ESP_SSD1306 display(OLED_RESET); // FOR I2C
 
 //const char* ssid = "DeltaFlyer";
-const char* ssid = "Nasc TP";
-const char* password = "Cuan+885227";
+const char* ssid = "XXXXXXXXX_YOUR SSID_XXXXXXXXXXX";
+const char* password = "XXXXXXXXX_YOUR PASSWORD_XXXXXXXXXXX";
 int screenbottom = 5;
 ESP8266WebServer server(80);
 uint8_t curkey = 0;
