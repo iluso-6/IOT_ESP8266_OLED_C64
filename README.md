@@ -6,6 +6,11 @@
 ***Modified code from*** https://github.com/NardJ/esp8266-C64 ***to output on an SSD1306 OLED***
 
 Added Adafruit_GFX library and TomThumb font to accomodate screen size. Converted original Commodore 64 logo for bitmap logo splash.
+<br>
+Seperated mobile JavaScript, Html, CSS logic from main (ESP8266C64_Browser_Backup.ino) file.
+
+
+***Note: Wifi credentials required in ESP8266C64_Browser_Backup.ino***
 
 Further project developments will include C64 keyboard on mobile device instead of serial input and a 128x128 screen.
 
