@@ -34,12 +34,9 @@ Further project developments will include C64 keyboard on mobile device instead 
   
 </table>
 ```javascript
-<table>
-	```javascript
-function _T(selector, container) {
-    return (container || document).querySelector(selector);
-}
+for loop and some math
 ```
+<table>
 	<th colspan="3">for loop and some math</th>
   <tr>
     <td><img src="https://github.com/iluso-6/IOT_ESP8266_OLED_C64/blob/master/screenshots/FOR_LOOP.jpeg?raw=true" align="left"/></td>
@@ -52,4 +49,4 @@ function _T(selector, container) {
   </tr>
   
 </table>
-```
+
